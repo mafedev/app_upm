@@ -2,8 +2,8 @@
 
 Este repositorio contiene el sistema completo, dividido en dos partes principales:
 
-- Backend
-- Frontend
+- Backend (`upm-backend`)
+- Frontend (`upm-front`)
   - Android Front (`android_front_upm`)
   - Windows Front (`windows_front_upm`)
 
