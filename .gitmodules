@@ -1,0 +1,6 @@
+[submodule "upm-backend"]
+	path = upm-backend
+	url = git@github.com:mafedev/upm-backend.git
+[submodule "upm-front"]
+	path = upm-front
+	url = git@github.com:mafedev/upm-front.git
